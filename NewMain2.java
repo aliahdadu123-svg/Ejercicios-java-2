@@ -27,7 +27,7 @@ public class NewMain2 {
            }
            }
         }while (nota>0);
-        
+        <!--calculemos la media-->
         double media=suma/contador;
         System.out.println("La media es:" +media);
         System.out.println("La nota mas alta es :" + notamaxima);
