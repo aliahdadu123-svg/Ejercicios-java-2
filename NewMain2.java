@@ -9,7 +9,7 @@ public class NewMain2 {
         int contador=1;
         double notamaxima=0;
         double numeros=0;
-        
+        <!--pedir nota de los alumnos-->
         do{
            System.out.println("Dame nota de los alumnos: ");
            nota=teclado.nextDouble();
